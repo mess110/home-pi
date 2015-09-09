@@ -1,0 +1,10 @@
+{
+  "name": "home-pi",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arduino-firmata": "^0.3.3"
+  }
+}
